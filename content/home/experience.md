@@ -39,5 +39,5 @@ experience:
     company_url: ''
     location: Munice, IN, 47306
     date_start: '2003-08-01'
-    date_end: '2012-7-31'
+    date_end: '2012-07-31'
 ---
