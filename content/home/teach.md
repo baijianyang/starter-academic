@@ -28,12 +28,13 @@ item:
   date_start: "2021-01-01" 
   # - certificate_url: https://www.coursera.org
   # date_end: ""
-  #  description: ""
+  description: "Spring 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2018"
   #  organization_url: https://www.coursera.org
   #  url: ""
 - organization: CNIT 555
   title: Advanced Network Security
   date_start: "2021-01-01" 
+  description: "Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016, Spring 2015"
 
 - organization: CNIT 340
   title: Unix Administration
