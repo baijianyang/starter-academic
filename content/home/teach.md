@@ -23,13 +23,21 @@ title: 'Courses Taught'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.coursera.org
-# date_end: ""
-date_start: "2021-01-01" 
-#  description: ""
-organization: CNIT 623
-#  organization_url: https://www.coursera.org
-title: Big Data Machine Learning
-#  url: ""
+- organization: CNIT 623
+  title: Big Data Machine Learning
+  date_start: "2021-01-01" 
+  # - certificate_url: https://www.coursera.org
+  # date_end: ""
+  #  description: ""
+  #  organization_url: https://www.coursera.org
+  #  url: ""
+- organization: CNIT 555
+  title: Advanced Network Security
+  date_start: "2021-01-01" 
+
+- organization: CNIT 340
+  title: Unix Administration
+  date_start: "2020-08-01" 
+
 
 ---
