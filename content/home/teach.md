@@ -25,7 +25,7 @@ title: 'Courses Taught'
 item:
 # - certificate_url: https://www.coursera.org
 # date_end: ""
-date_start: "2021-01-01" "2020-08-01" "2020-01-01"
+date_start: "2021-01-01" 
 #  description: ""
 organization: CNIT 623
 #  organization_url: https://www.coursera.org
