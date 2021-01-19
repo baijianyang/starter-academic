@@ -5,6 +5,8 @@ widget: people
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+# Order that this section appears on the page.
+weight: 70
 
 content:
   # Choose which groups/teams of users to display.
