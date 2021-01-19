@@ -1,5 +1,5 @@
 ---
-title: CHEESE: Cyber Human Ecosystem of Engaged Security Education
+title: "CHEESE: Cyber Human Ecosystem of Engaged Security Education"
 summary: This is an NSF funded DGE project
 tags:
 - cybersec
