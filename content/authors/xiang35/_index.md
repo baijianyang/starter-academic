@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Tonglin Zhang
+title: Xiang Liu
 
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Principal Investigators"]
+user_groups: ["Grad Students"]
 
 # Role/position/tagline
-role: Associate Professor of Statistics
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,9 +20,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Big Data.
-- Spatial Epidemiology.
-- Geostatistics for large data. 
+- Big Data
+- Machine Learning
+- Software Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
