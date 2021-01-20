@@ -43,11 +43,11 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Open Access
+  url: https://www.mdpi.com/2673-2688/1/2/10
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/2673-2688/1/2/10/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Diagram'
   focal_point: ""
   preview_only: false
 

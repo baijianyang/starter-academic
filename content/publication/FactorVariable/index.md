@@ -41,7 +41,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Online Access
+- name: Abstract
   url: http://www3.stat.sinica.edu.tw/statistica/j31n1/j31n101/j31n101.html
 
 url_pdf: 'https://www.researchgate.net/profile/Baijian_Yang/publication/338298311_Accounting_for_Factor_Variables_in_Big_Data_Regression/links/5eb305f0299bf152d6a1a9d7/Accounting-for-Factor-Variables-in-Big-Data-Regression.pdf'
