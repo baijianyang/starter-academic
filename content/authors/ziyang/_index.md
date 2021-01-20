@@ -30,14 +30,14 @@ interests:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
- icon_pack: fas
- link: 'mailto:tang385@purdue.edu'
+  icon_pack: fas
+  link: 'mailto:tang385@purdue.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
- icon_pack: fas
- link: https://scholar.google.com/citations?hl=en&user=0lyfXlAAAAAJ
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=en&user=0lyfXlAAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
