@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhaorui Liu
+title: Diego Miguel Mendez mena 
 
 # Is this the primary user of the site?
 # superuser: false
@@ -8,7 +8,7 @@ title: Zhaorui Liu
 user_groups: ["Grad Students"]
 
 # Role/position/tagline
-role: M.S. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,9 +19,9 @@ organizations:
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests:
-- Big Data
-- Machine Learning
+interests: 
+- Cybersecurity, IoT, Blockchain 
+- STEM fostering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,13 +30,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liu3178@purdue.edu'
+  link: 'mailto:dmendezm@purdue.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.com/citations?user=8ZnscP8AAAAJ&hl=en
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=5q97BeoAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -52,7 +52,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "liu3178@purdue.edu"
+email: "dmendezm@purdue.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

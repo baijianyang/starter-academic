@@ -19,10 +19,9 @@ organizations:
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests:
-- Big Data
-- Machine Learning
-- Software Engineering
+interests: 
+- Big Data, Tensor Decomposition
+- Machine Learning / Deep Learning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +36,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=8ZnscP8AAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=D6_iJnAAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
