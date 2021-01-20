@@ -36,8 +36,8 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
- icon_pack: fas
- link: https://scholar.google.com/citations?user=3Uo1Of0AAAAJ&hl=en
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=3Uo1Of0AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -53,7 +53,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jinn@purdue.edu"
+email: 'jinn@purdue.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
