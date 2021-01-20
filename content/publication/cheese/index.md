@@ -1,5 +1,5 @@
 ---
-title: 'CHEESE: Cyber Human Ecosystem of Engaged Security Education'
+title: "CHEESE: Cyber Human Ecosystem of Engaged Security Education"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here  and it will be replaced with their full name and linked to their profile.
@@ -59,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: cheese
+projects: 
+- cheese
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
