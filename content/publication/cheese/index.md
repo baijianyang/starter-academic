@@ -2,19 +2,13 @@
 title: 'CHEESE: Cyber Human Ecosystem of Engaged Security Education'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here  and it will be replaced with their full name and linked to their profile.
 authors:
 - Rajesh Kalyanam
 - admin
 - Craig Willis
 - Mike Lambert
 - Christine Kirkpatrick
-
-# Author notes (optional)
-# author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
 
 date: "2020-10-24T00:00:00Z"
 doi: "https://doi.org/10.1109/FIE44824.2020.9273931"
@@ -44,7 +38,7 @@ links:
 - name: IEEE Explore
   url: https://ieeexplore.ieee.org/document/9273931
 
-url_pdf: 'https://ieeexplore.ieee.org/iel7/9273681/9273811/09273931.pdf?casa_token=FJrH009oQ0sAAAAA:80QNZ9Lvmm6YqZXNpp2M1RuYPvdZz5jjUDuDrPNyXB82yt3iOik8U66gcFz0Y6uNqTGg_uFmkQ'
+# url_pdf: 'https://ieeexplore.ieee.org/iel7/9273681/9273811/09273931.pdf?casa_token=FJrH009oQ0sAAAAA:80QNZ9Lvmm6YqZXNpp2M1RuYPvdZz5jjUDuDrPNyXB82yt3iOik8U66gcFz0Y6uNqTGg_uFmkQ'
 url_code: ''
 url_dataset: ''
 url_poster: ''
