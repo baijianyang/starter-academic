@@ -35,15 +35,15 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
- - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=3Uo1Of0AAAAJ&hl=en
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+ icon_pack: fas
+ link: https://scholar.google.com/citations?user=3Uo1Of0AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 # - icon: linkedin
- # icon_pack: fab
- # link: https://www.linkedin.com/
+# icon_pack: fab
+# link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
