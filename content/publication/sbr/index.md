@@ -72,7 +72,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Abstract
-url: 'https://ieeexplore.ieee.org/document/9006448'
+  url: https://ieeexplore.ieee.org/document/9006448
 
 url_pdf: 'https://ieeexplore.ieee.org/iel7/8986695/9005444/09006448.pdf?casa_token=yxwmq9dYFh4AAAAA:xAlPvx8HSP83f8Z90q_ijcTnQUgYsyYvoRRXg9vc2JeHFZOLzHbEEsl9YlmckoXkFKqYzp84pw'
 url_code: ''
