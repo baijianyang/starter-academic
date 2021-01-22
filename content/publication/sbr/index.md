@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: "2019 IEEE Big Data"
 publication_short: ""
 
-abstract: Categorical variables are nominal variables that
+abstract: "Categorical variables are nominal variables that
 classify observations by groups. The treatment of categorical
 variables in regression is a well-studied yet vital problem, with
 the most popular solution to perform a one hot encoding.
@@ -59,7 +59,7 @@ conventional sparse matrix approaches. The experiments proved
 that SBR can efficiently and accurately solve the regression
 problem with large category number. Compared to the sparse
 matrix approach, SBR saved 90% memory in size during the
-computation.
+computation."
 
 # Summary. An optional shortened abstract.
 # summary: In this paper, 
@@ -72,7 +72,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Abstract
-  url: https://ieeexplore.ieee.org/document/9006448
+url: https://ieeexplore.ieee.org/document/9006448
 
 url_pdf: 'https://ieeexplore.ieee.org/iel7/8986695/9005444/09006448.pdf?casa_token=yxwmq9dYFh4AAAAA:xAlPvx8HSP83f8Z90q_ijcTnQUgYsyYvoRRXg9vc2JeHFZOLzHbEEsl9YlmckoXkFKqYzp84pw'
 url_code: ''
