@@ -20,8 +20,8 @@ organizations:
 
 # Interests to show in About widget
 interests: 
-- Big Data, Tensor Decomposition
-- Machine Learning / Deep Learning
+- Connected and Automated Vehicle (CAV) 
+- Robotics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +36,7 @@ social:
   link: https://web.ics.purdue.edu/~chen1368/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=xqBcZ4IAAAAJ&hl
+  link: https://scholar.google.com/citations?user=xqBcZ4IAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
