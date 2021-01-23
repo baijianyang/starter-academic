@@ -104,7 +104,7 @@ coordinates = {latitude = "40.42795975292139", longitude = "-86.91117268854629"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesdays 10:30 to 12:30", "Thursdays 13:00 to 15:00"]
+office_hours = ["Tuesdays 10:30 to 12:30", "Thursdays 10:30 to 11:00 then 12:30 to 14:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/baijianyang/office-hours"
