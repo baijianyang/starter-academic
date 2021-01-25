@@ -41,7 +41,7 @@ abstract: "n this work, we introduce a Denser Feature Network (DenserNet) for vi
 tags: [AML]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
