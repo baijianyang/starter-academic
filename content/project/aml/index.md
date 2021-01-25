@@ -1,6 +1,7 @@
 ---
 title: "Applied Machine Learning"
-summary: "This project aims at applying machine learning to solve real world use inspired research questions."
+summary: "This project aims at applying machine learning to solve real-world use-inspired research questions."
+tags:
 - AML
 date: "2015-08-01T00:00:00Z"
 
