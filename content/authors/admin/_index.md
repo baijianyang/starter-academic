@@ -72,4 +72,4 @@ highlight_name: false
 
 Dr. Yang has a diverse skill set in computing. He was the lead author of two books on Windows Phone Programming and holds a number of industry certifications such as CISSP, MCSE, and Six Sigma Black Belt. Dr. Yang was a board member of the Association of Technology, Management, and Applied Engineering (ATMAE) from 2014-2016. He was a member of IEEE Cybersecurity Initiative Steering Committee and the project lead of IEEE Try-CybSI from 2015 to 2017. He is currently serving as the Faculty Champion of Purdue Polytechnic Research Impact Areas in Holistic Safety & Security and he is a University Faculty Scholar at Purdue University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/yang_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
