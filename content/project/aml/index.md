@@ -1,6 +1,6 @@
 ---
 title: "Applied Machine Learning"
-summary: This project aims at applying machine learning to solve real-world use-inspired research questions.
+summary: "This project aims at applying machine learning to solve real-world use-inspired research questions."
 - AML
 date: "2015-08-01T00:00:00Z"
 
@@ -8,7 +8,7 @@ date: "2015-08-01T00:00:00Z"
 # external_link: "https://docs.cheesehub.org/en/latest/index.html"
 
 image:
-  caption: Concept Diagram of the Project
+  caption: An example of AML project. 
   focal_point: Smart
 
 links:
@@ -29,4 +29,4 @@ links:
 # slides: example
 ---
 
-This project aims at proposing and validating novel big data computing algorithms and high dimension reduction algorithms for statistical machine learning. The potential use case of this project include IoT machine learning and explainable AI. 
+This project aims at applying innovative, explainable optimize deep learning algorithms to solve real world problems in manufacturing, smart cities, forestry, and medical field. 
