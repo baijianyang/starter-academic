@@ -41,7 +41,7 @@ abstract: "n this work, we introduce a Denser Feature Network (DenserNet) for vi
 tags: [AML]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -62,7 +62,7 @@ url_video: ''
 image:
   caption: 'Algorithm'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
