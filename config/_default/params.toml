@@ -16,7 +16,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false #What will happen?
 night=true  #Try#
 
 # Override the theme's font set (optional).
