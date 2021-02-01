@@ -15,11 +15,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-12-7T00:00:00Z"
+date: "2020-12-07T00:00:00Z"
 doi: "https://doi.org/10.1109/GLOBECOM42002.2020.9322471"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-7"
+publishDate: "2020-12-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -87,3 +87,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
