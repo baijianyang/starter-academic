@@ -17,7 +17,7 @@ authors:
 #- "Equal contribution"
 
 date: "2020-12-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/ICMLA51294.2020.00020"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-15"
@@ -49,10 +49,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: ""
-  url: ""
+- name: "IEEE Explore"
+  url: "https://ieeexplore.ieee.org/document/9356176"
 
-url_pdf: ''
+url_pdf: './ICMLA_lowrank.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

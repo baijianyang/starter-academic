@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2020-12-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/ICMLA51294.2020.00069"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-15"
@@ -42,8 +42,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: ""
-  url: ""
+- name: "IEEE Explore"
+  url: "https://ieeexplore.ieee.org/document/9356136"
 
 url_pdf: 'https://arxiv.org/pdf/2001.08247'
 url_code: ''
