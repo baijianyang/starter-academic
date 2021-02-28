@@ -52,7 +52,7 @@ links:
 - name: "IEEE Explore"
   url: "https://ieeexplore.ieee.org/document/9356176"
 
-url_pdf: './ICMLA_lowrank.pdf'
+url_pdf: '.publication/Lowrank/ICMLA_lowrank.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
