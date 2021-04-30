@@ -18,7 +18,7 @@ authors:
 #- "Equal contribution"
 
 date: "2020-12-30T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-74717-6_10"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-30"
