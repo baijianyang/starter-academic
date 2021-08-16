@@ -6,7 +6,7 @@ title: Baijian Yang
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Computer and Information Technology
+role: Professor of Computer and Information Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied machine learing, big data and cybersecurity.
+bio: My research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
 interests:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Dr. Yang has a diverse skill set in computing. He was the lead author of two books on Windows Phone Programming and holds a number of industry certifications such as CISSP, MCSE, and Six Sigma Black Belt. Dr. Yang was a board member of the Association of Technology, Management, and Applied Engineering (ATMAE) from 2014-2016. He was a member of IEEE Cybersecurity Initiative Steering Committee and the project lead of IEEE Try-CybSI from 2015 to 2017. He is currently serving as the Faculty Champion of Purdue Polytechnic Research Impact Areas in Holistic Safety & Security and he is a University Faculty Scholar at Purdue University.
+Dr. Yang has a diverse skill set in computing. He was the lead author of two books on Windows Phone Programming and holds a number of industry certifications such as CISSP, MCSE, and Six Sigma Black Belt. Dr. Yang was a board member of the Association of Technology, Management, and Applied Engineering (ATMAE) from 2014-2016. He was a member of IEEE Cybersecurity Initiative Steering Committee and the project lead of IEEE Try-CybSI from 2015 to 2017. He is currently serving as a Senior Faculty Fellow of Purdue Polytechnic Research Impact Areas and he is a University Faculty Scholar at Purdue University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

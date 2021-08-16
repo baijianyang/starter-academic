@@ -31,8 +31,15 @@ experience:
     company: Purdue University
     company_url: ''
     location: West Lafayette, IN 47907
-    date_start: '2012-08-01'
+    date_start: '2021-08-16'
     date_end: ''
+
+  - title: Associate Professor
+    company: Purdue University
+    company_url: ''
+    location: West Lafayette, IN 47907
+    date_start: '2012-08-01'
+    date_end: '2021-08-15'
         
   - title: Assistant Professor, Assoicate Professor
     company: Ball State University
