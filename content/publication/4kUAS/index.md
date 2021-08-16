@@ -37,7 +37,7 @@ abstract: Unmanned Aerial Systems, hereafter referred to as UAS, are of great us
 # Summary. An optional shortened abstract.
 summary: In this paper, we aimed at implementing an application in detecting fire and other critical ground-based objects in a wildfire event using high resolution aerial images. We propose a well annotated fire dataset with 1400 4K images. We also present a coarse-to-fine strategy to deal with the 4K images, which achieves high accuracy while maintaining fast speeds. Our methods can also be added to different backbones in object detection methods and extended to deal with high resolution images. Ongoing and future research objectives involve expansion of the UAS wildfire imagery collection, and working with a UAS platforms equipped with more powerful CPUs and GPUs. Fusing data collected from multiple types of sensors can provide additional wisdom in wildfire fighting scenarios. Additional Machine Learning approaches, especially a hybrid approach that combines signal processing with deep learning, will be investigated to discover a faster and more accurate technique to identify small objects of interests and objects with irregular boundaries in high definition videos and images.
 
-tags: []
+tags: [AML]
 
 # Display this page in the Featured widget?
 featured: false
@@ -68,8 +68,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - example
+projects:
+- aml
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,13 +78,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

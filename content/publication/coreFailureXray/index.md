@@ -36,7 +36,7 @@ abstract: Core failure inspection is an important issue in die casting. The insp
 # Summary. An optional shortened abstract.
 summary: This research designed and developed a deep-learning-based anomaly detection framework to detect core failures from die casting X-ray images. The area of interest can be located automatically. The recognition and the location of the defects were achieved using only one neural network. The noises introduced during the dimension reduction process were solved with an edge-detection-based generalizable noise removal approach. Our work achieved an impressive accuracy of 97.45% with only a tiny data set of 30 known-good images. Our proposed CAE-based deep learning framework is robust during the training and the testing stages. It is easy to develop and requires only a small amount of labeled data to train. The anomaly detection and location approach presented in this manuscript does not apply to the general object detection tasks. It is mostly suited to discover differences among similar images, such as the X-ray images of the same parts. Despite the fact that the framework is only tested on die casting images, the approach itself has a great potential to be applicable to other industrial inspection scenarios. There are several directions for future research on this topic. Firstly, while the proposed method is designed to be generalizable to inspect other core defects, it is essential to test the method on more scenarios. We believe our method can be adapted to other core inspection tasks effortlessly as discussed in Sect. 5. However, its applicability on more blurring defects, such as minor cracks or porosity, remains unrevealed. Secondly, GAN-based anomaly detection applied in surface defect detection [10,18] is still a possible route for core defects inspection. Although our preliminary trials of GAN produced unsatisfactory results, additional researches should be investigated to fully understand the potentials of GAN-based anomaly detection techniques. Finally, another fascinating research direction is to apply clustering algorithms to classify the inspected defects into different categories without any annotation. This will be beneficial for experienced engineers to figure out the problems in the system.
 
-tags: []
+tags: [aml]
 
 # Display this page in the Featured widget?
 featured: false
@@ -67,8 +67,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - example
+projects:
+- aml
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -77,13 +77,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

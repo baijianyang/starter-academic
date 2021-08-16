@@ -27,7 +27,7 @@ date_format: Jan 2006
 #   * Modelling
 #   * Deploying
 experience:
-  - title: Associate Professor
+  - title: Professor
     company: Purdue University
     company_url: ''
     location: West Lafayette, IN 47907
