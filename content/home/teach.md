@@ -28,7 +28,7 @@ item:
   date_start: "2021-01-01" 
   # - certificate_url: https://www.coursera.org
   # date_end: ""
-  description: "Spring 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2017"
+  description: "Fall 2021, Spring 2021, Fall 2020, Spring 2020, Spring 2019, Spring 2017"
   #  organization_url: https://www.coursera.org
   #  url: ""
 - organization: CNIT 555
@@ -39,7 +39,7 @@ item:
 - organization: CNIT 340
   title: Unix Administration
   date_start: "2020-08-01" 
-  description: "Fall 2020"
+  description: "Fall 2021, Fall 2020"
   
 - organization: CNIT 344
   title: Network Engineering Fundamental
