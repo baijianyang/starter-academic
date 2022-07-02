@@ -5,19 +5,18 @@ title: "A Triangulation-Based Visual Localization for Field Robots"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- weitao
-- xiang35
-- huan1182
-- ziyang
-- tlzhang
+- James Liang
+- Yuxing Wang
+- Yingjie Chen
 - admin
+- Dongfang Liu
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-6-1T00:00:00Z"
+date: "2022-6-1"
 doi: "https://doi.org/10.1109/JAS.2022.105632"
 
 # Schedule page publish date (NOT publication's date).
