@@ -52,11 +52,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-# - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/byang
-
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -71,6 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Dr. Yang has a diverse skill set in computing. He was the lead author of two books on Windows Phone Programming and holds a number of industry certifications such as CISSP, MCSE, and Six Sigma Black Belt. Dr. Yang was a board member of the Association of Technology, Management, and Applied Engineering (ATMAE) from 2014-2016. He was a member of IEEE Cybersecurity Initiative Steering Committee and the project lead of IEEE Try-CybSI from 2015 to 2017. He is currently serving as a Senior Faculty Fellow of Purdue Polytechnic Research Impact Areas and he is a University Faculty Scholar at Purdue University.
-
+Dr. Baijian “Justin” Yang is the Associate Dean for Research at Purdue Polytechnic Institute and a Professor in the Department of Computer and Information Technology at Purdue University. He earned his Ph.D. in Computer Science from Michigan State University and holds both an M.S. and B.S. in Automation (EECS) from Tsinghua University.
+With a broad expertise in computer and information technology, Dr. Yang has authored over 100 peer-reviewed publications. His recent research focuses on applied machine learning, big data, and cybersecurity. He has also contributed to the field through leadership roles, serving as a board member for the Association of Technology, Management, and Applied Engineering (ATMAE) from 2014 to 2016 and as a member of the IEEE Cybersecurity Initiative Steering Committee from 2015 to 2017.
+Beyond academia, Dr. Yang holds several industry certifications, including CISSP, MCSE, and Six Sigma Black Belt. He has also authored two books on Windows Phone programming.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
