@@ -16,8 +16,8 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true #What will happen?
 night=true  #Try#
+day_night = true #What will happen?
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -268,7 +268,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "77782698"
   google_tag_manager = ""
 
 ############################
