@@ -8,7 +8,7 @@ title: Baijian Yang
 user_groups: ["Principal Investigators"]
 
 # Role/position/tagline
-role: Associate Professor of Computer and Information Technology
+role: Professor of Computer and Information Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
