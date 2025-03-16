@@ -12,17 +12,17 @@ role: Ph.D. 2023
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Purdue University
-  url: https://www.purdue.edu/
+#- name: Purdue University
+#  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests:  
-- Deep Learning
-- Bioinformatics
-- Computer Vision
+#interests:  
+#- Deep Learning
+#- Bioinformatics
+#- Computer Vision
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +53,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tang385@purdue.edu"
+#email: "tang385@purdue.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
