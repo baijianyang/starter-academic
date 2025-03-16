@@ -5,10 +5,9 @@ title: Weitao Tang
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Grad Students"]
-
+user_groups: ["Alumni"]
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. 2024
 
 # Organizations/Affiliations to show in About widget
 organizations:

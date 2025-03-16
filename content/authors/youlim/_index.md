@@ -5,10 +5,9 @@ title: Youlim Ko
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Grad Students"]
-
+user_groups: ["Alumni"]
 # Role/position/tagline
-role: MS Student
+role: MS 2023
 
 # Organizations/Affiliations to show in About widget
 organizations:
