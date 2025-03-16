@@ -10,17 +10,17 @@ user_groups: ["Alumni"]
 role: Ph.D. 2024
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Purdue University
-  url: https://www.purdue.edu/
+#organizations:
+#- name: Purdue University
+#  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests: 
-- Computer Vision, Representation Learning 
-- Automatic Inspection
+#interests: 
+#- Computer Vision, Representation Learning 
+#- Automatic Inspection
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

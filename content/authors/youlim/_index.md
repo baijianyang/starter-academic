@@ -11,16 +11,16 @@ role: MS 2023
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Purdue University
-  url: https://www.purdue.edu/
+#- name: Purdue University
+#  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests: 
-- Big Data, Machine Learning
-- Natural Language Processing 
+#interests: 
+#- Big Data, Machine Learning
+#- Natural Language Processing 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

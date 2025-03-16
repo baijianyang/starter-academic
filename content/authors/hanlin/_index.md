@@ -10,17 +10,17 @@ user_groups: ["Alumni"]
 role: Ph.D. 2023
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Purdue University
-  url: https://www.purdue.edu/
+#organizations:
+#- name: Purdue University
+#  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests: 
-- Connected and Automated Vehicle (CAV) 
-- Robotics
+#interests: 
+#- Connected and Automated Vehicle (CAV) 
+#- Robotics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,7 +51,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chen1368@purdue.edu"
+# email: "chen1368@purdue.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

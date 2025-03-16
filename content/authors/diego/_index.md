@@ -5,23 +5,22 @@ title: Diego Miguel Mendez mena
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Grad Students"]
-
+user_groups: ["Alumni"]
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. 2022
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Purdue University
-  url: https://www.purdue.edu/
+#organizations:
+#- name: Purdue University
+#  url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # research interests include applied machine learning, big data and cybersecurity.
 
 # Interests to show in About widget
-interests: 
-- Cybersecurity, IoT, Blockchain 
-- STEM fostering
+#interests: 
+#- Cybersecurity, IoT, Blockchain 
+#- STEM fostering
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,8 +51,8 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dmendezm@purdue.edu"
-
+#email: "dmendezm@purdue.edu"
+ 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
