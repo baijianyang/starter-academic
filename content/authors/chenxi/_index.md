@@ -53,7 +53,7 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config) #
 email: 'xiong37@purdue.edu'
 
 # Highlight the author in author lists? (true/false)
