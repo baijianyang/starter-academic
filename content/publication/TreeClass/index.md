@@ -2,7 +2,7 @@
 title: "Temperate forest tree species classification with winter UAV images"
 
   author={Huang, Yunmei and Yang, Baijian and Carpenter, Joshua and Jung, Jinha and Fei, Songlin},
-  journal={},
+  journal={Remote Sensing Applications: Society and Environment},
   volume={37},
   pages={101422},
   year={2025},
