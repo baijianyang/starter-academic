@@ -5,10 +5,10 @@ title: Baijian Yang
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Principal Investigators"]
+# user_groups: ["Principal Investigators"]
 
 # Role/position/tagline
-role: Professor of Computer and Information Technology
+# role: Professor of Computer and Information Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:

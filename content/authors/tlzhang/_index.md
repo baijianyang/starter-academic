@@ -5,10 +5,10 @@ title: Tonglin Zhang
 # Is this the primary user of the site?
 # superuser: false
 
-user_groups: ["Principal Investigators"]
+# user_groups: ["Principal Investigators"]
 
 # Role/position/tagline
-role: Associate Professor of Statistics
+# role: Associate Professor of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
